@@ -1,4 +1,4 @@
-#Some exercises with strings
+#Exercises
 
 <p>ex3: </p>
 <p>ex4: </p>
